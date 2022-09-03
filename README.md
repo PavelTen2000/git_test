@@ -1,1 +1,2 @@
-# git_test
+Hello my first repo!
+My name is Pavel!
